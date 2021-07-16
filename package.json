@@ -32,6 +32,7 @@
     "dotenv": "^8.2.0",
     "eslint": "^7.22.0",
     "mocha-skip-if": "^0.0.3",
+    "solidity-coverage": "^0.7.16",
     "transform": "^1.1.2"
   },
   "mocha": {
